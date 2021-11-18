@@ -9,10 +9,9 @@ PHA4GE Bioinformatics Pipelines &amp; Training and Workshop Development Working 
 
 ### CZI/CZBiohub COVID Tracker Resources
 
-**[COVIDTracker Serinar Series](https://covidtracker.czbiohub.org/resources)**: Various discussions and lectures regarding genomic epidemiology theory and interpretation resources from CZI/CZBiohub
-
 <details>
- <summary>Notable discussions and seminars
+ <summary>Various discussions and lectures regarding genomic epidemiology theory and interpretation resources from CZI/CZBiohub
+
  </summary>
  
 - **[Discussion of the overlapping timescales of pathogen evolution](https://www.youtube.com/watch?v=Bt3JNKfU5qk)** and infectious disease transmission, and how to build phylogenetic trees that visualize genetic divergence.
@@ -29,6 +28,16 @@ PHA4GE Bioinformatics Pipelines &amp; Training and Workshop Development Working 
 
 ### COVID-19 Genomic Epidemiology Toolkit from the Centers for Disease Control and Prevention's Office of Advanced Molecular Disease
 **[Public health training webinars](https://www.cdc.gov/amd/training/covid-19-gen-epi-toolkit.html)** meant to further the use of genomics in responding to COVID-19 at the state and local level
+
+### Workflow Development Resources
+<details>
+ <summary>Various open-source and open-access training materials on workflow development
+ </summary>
+ 
+- **[H3ABioNet's Introduction to NextFlow](https://www.h3abionet.org/categories/training/introduction-to-nextflow-workshop-december-2020)**
+- **[Carpentries Incubator's Getting Started with SnakeMake](https://carpentries-incubator.github.io/workflows-snakemake/)**
+- **[JPI-AMR PHA4GE MRC-CLIMB-BIG-DATA AMR Genomics Training Workshop](https://github.com/fmaguire/amr_training_workshop_practical)** 
+</details>
 
 ### ELIXIR Webinar on Bioconda and BioContainers
 **[YouTube webinar](https://www.youtube.com/watch?v=37xYDd7Poy8)**  on the use of BioConda and BioContainers for tool depolyment and sustainability in science
