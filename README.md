@@ -28,9 +28,9 @@ PHA4GE Bioinformatics Pipelines &amp; Training and Workshop Development Working 
 </details>
 
 ### COVID-19 Genomic Epidemiology Toolkit from the Centers for Disease Control and Prevention's Office of Advanced Molecular Disease
-**[Training webinars](https://www.cdc.gov/amd/training/covid-19-gen-epi-toolkit.html)** meant to further the use of genomics in responding to COVID-19 at the state and local level
+**[Public health training webinars](https://www.cdc.gov/amd/training/covid-19-gen-epi-toolkit.html)** meant to further the use of genomics in responding to COVID-19 at the state and local level
 
-### ELixer Webinar on Bioconda and BioContainers
+### ElIXIR Webinar on Bioconda and BioContainers
 **[YouTube webinar](https://www.youtube.com/watch?v=37xYDd7Poy8)**  on the use of BioConda and BioContainers for tool depolyment and sustainability in science
 
 ### SARS-CoV-2 Data Analysis and Monitoring with Galaxy
