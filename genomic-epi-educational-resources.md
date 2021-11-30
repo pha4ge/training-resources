@@ -37,7 +37,9 @@ PHA4GE Bioinformatics Pipelines &amp; Training and Workshop Development Working 
 - **[H3ABioNet's Introduction to NextFlow](https://www.h3abionet.org/categories/training/introduction-to-nextflow-workshop-december-2020)**
 - **[Carpentries Incubator's Getting Started with SnakeMake](https://carpentries-incubator.github.io/workflows-snakemake/)**
 - **[JPI-AMR PHA4GE MRC-CLIMB-BIG-DATA AMR Genomics Training Workshop](https://github.com/fmaguire/amr_training_workshop_practical)** 
+- **[Learning WDL and mini-wdl](https://www.youtube.com/watch?v=RtcW2Zdn_28&list=PL4Q4HssKcxYv5syJKUKRrD8Fbd-_CnxTM)**
 </details>
+
 
 ### ELIXIR Webinar on Bioconda and BioContainers
 **[YouTube webinar](https://www.youtube.com/watch?v=37xYDd7Poy8)**  on the use of BioConda and BioContainers for tool depolyment and sustainability in science
