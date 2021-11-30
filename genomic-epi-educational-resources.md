@@ -57,7 +57,25 @@ PHA4GE Bioinformatics Pipelines &amp; Training and Workshop Development Working 
 
 ### PHA4GE Contextual Data Curation/Stewardship resources
 <details>
- <summary>Various open-source and open-access training and reference materials for PHA4GE contextual data curation/stewardship </summary>
+ <summary>Resources that form the PHA4GE SARS-CoV-2 contextual data specification package</summary>
  
 - **[PHA4GE contextual data specification package and data stewardship training video](https://drive.google.com/file/d/1h8HlMY2wDe3ds5_kHpjsFhusVwQfpR09/view?usp=sharing)**
+ - **[Collection template and controlled vocabulary pick lists](https://github.com/pha4ge/SARS-CoV-2-Contextual-Data-Specification/raw/master/PHA4GE%20SARS-CoV-2%20Contextual%20Data%20Template.xlsx)**: Spreadsheet-based collection form containing different fields (identifiers and accessions, sample collection and processing, host information, host exposure, vaccination and reinfection information, lineage and variant information, sequencing, bioinformatics and QC metrics, diagnostic testing information, author acknowledgements). Fields are colour-coded to indicate required, recommended or optional status. Many fields offer pick lists of controlled vocabulary. Vocabulary lists are also available in a separate tab.
+- **[Reference guide](https://github.com/pha4ge/SARS-CoV-2-Contextual-Data-Specification/raw/master/PHA4GE%20SARS-CoV-2%20Contextual%20Data%20Template.xlsx)**: Field definitions, guidance, and examples are provided as a separate tab in the collection template .xlsx file.
+- **[Curation protocol on protocols.io](https://www.protocols.io/view/pha4ge-contextual-metadata-sop-btpznmp6)**: Step-by-step instructions for using the collection template are provided in a standard operating procedure (SOP). Ethical, practical, and privacy considerations are also discussed. Examples and instructions for structuring sample descriptions as well as sourcing additional standardized terms (outside those provided in pick lists) are also discussed.
+- **[Mapping file of PHA4GE fields to metadata standards](https://github.com/pha4ge/SARS-CoV-2-Contextual-Data-Specification/raw/master/PHA4GE%20SARS-CoV-2%20Contextual%20Data%20Template.xlsx)**: PHA4GE fields are mapped to existing metadata standards such as the Sample Application Standard, MIxS 5.0, and the MIGS Virus Host-associated attribute package. Mappings are available in the Reference guide tab. Mappings highlight which fields of these standards are considered useful for SARS-CoV-2 public health surveillance and investigations, and which fields are considered out of scope.
+- **[Mapping file of PHA4GE fields to EMBL-EBI, NCBI and GISAID submission requirements](https://github.com/pha4ge/SARS-CoV-2-Contextual-Data-Specification/raw/master/PHA4GE%20to%20Sequence%20Repository%20Field%20Mappings.xlsx)**: Many PHA4GE fields have been sourced from public repository submission requirements. The different repositories have different requirements and field names. Repository submission fields have been mapped to PHA4GE fields to demonstrate equivalencies and divergences. 
+- **[Data submission protocol (NCBI) on protocols.io](https://www.protocols.io/view/sars-cov-2-ncbi-submission-workflow-guidance-for-s-bsypnfvn)**: The SARS-CoV-2 submission protocol for NCBI provides step-by-step instructions and recommendations aimed at improving interoperability and consistency of submitted data.
+- **[Data submission protocol (EMBL-EBI) on protocols.io](https://www.protocols.io/view/sars-cov-2-ena-submission-workflow-guidance-for-st-buqnnvve)**: The SARS-CoV-2 submission protocol for ENA provides step-by-step instructions and recommendations aimed at improving interoperability and consistency of submitted data.
+- **[Data submission protocol (GISAID) on protocols.io](https://www.protocols.io/view/sars-cov2-gisaid-submission-protocol-bumknu4w)**: The SARS-CoV-2 submission protocol for GISAID provides step-by-step instructions and recommendations aimed at improving interoperability and consistency of submitted data.
+- **[JSON structure of PHA4GE specification](https://raw.githubusercontent.com/pha4ge/SARS-CoV-2-Contextual-Data-Specification/master/PHA4GE_SARS-CoV-2_Contextual_Data_Schema.json)**: A JSON structure of the PHA4GE specification has been provided for easier integration into software applications.
+
 </details>
+<details>
+ <summary>Supplemental resources for the PHA4GE SARS-CoV-2 contextual data specifiation package</summary>
+ 
+- **[multiSub](https://github.com/maximilianh/multiSub)**: Command-line tool for interchange of public repository submission formats
+- **[Micro Binfie podcast](https://soundcloud.com/microbinfie/26-sars-cov-2-metadata#t=0:00)**: Features discussion with PHA4GE members about specification package
+- **[PHA4GE Preprint](https://www.preprints.org/manuscript/202008.0220/v1)**: Overview of specification package
+- **[PHA4GE template in the DataHarmonizer](https://github.com/Public-Health-Bioinformatics/DataHarmonizer/releases)**: Javascript application enabling standardized data entry, validation and export of contextual data as submission-ready forms for GISAID and NCBI.
+ </details>
