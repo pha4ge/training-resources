@@ -40,9 +40,18 @@ PHA4GE Bioinformatics Pipelines &amp; Training and Workshop Development Working 
 - **[Learning WDL and mini-wdl](https://www.youtube.com/watch?v=RtcW2Zdn_28&list=PL4Q4HssKcxYv5syJKUKRrD8Fbd-_CnxTM)**
 </details>
 
-
 ### ELIXIR Webinar on Bioconda and BioContainers
 **[YouTube webinar](https://www.youtube.com/watch?v=37xYDd7Poy8)**  on the use of BioConda and BioContainers for tool depolyment and sustainability in science
 
 ### SARS-CoV-2 Data Analysis and Monitoring with Galaxy
 **[Virtual training workshop](https://galaxyproject.eu/event/2021-06-21-sars-cov-2-data-analysis-monitoring-training/#day-1-982021---introduction-to-galaxy)**  to build capacity in SARS-CoV-2 data analysis and data management, including data submission to ENA
+
+### Terra.Bio Training Resources
+<details>
+ <summary>Various open-source and open-access training materials for the Terra.Bio bioinformatics web application: https://app.terra.bio/
+ </summary>
+ 
+- **[COVID-19 workspaces, data and tools in Terra](https://support.terra.bio/hc/en-us/articles/360041068771--COVID-19-workspaces-data-and-tools-in-Terra)**
+- **[Theiagen Genomics' Training Videos for SC2 Genomic Analysis on the Terra.Bio Platform](https://www.youtube.com/watch?v=fy0Hm0lfIas&list=PLU47xRg_MKJrtyoFwqGiywl7lQj6vq8Uz)**
+</details>
+
