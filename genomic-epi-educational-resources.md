@@ -55,3 +55,9 @@ PHA4GE Bioinformatics Pipelines &amp; Training and Workshop Development Working 
 - **[Theiagen Genomics' Training Videos for SC2 Genomic Analysis on the Terra.Bio Platform](https://www.youtube.com/watch?v=fy0Hm0lfIas&list=PLU47xRg_MKJrtyoFwqGiywl7lQj6vq8Uz)**
 </details>
 
+### PHA4GE Contextual Data Curation/Stewardship resources
+<details>
+ <summary>Various open-source and open-access training and reference materials for PHA4GE contextual data curation/stewardship </summary>
+ 
+- **[PHA4GE contextual data specification package and data stewardship training video](https://drive.google.com/file/d/1h8HlMY2wDe3ds5_kHpjsFhusVwQfpR09/view?usp=sharing)**
+</details>
