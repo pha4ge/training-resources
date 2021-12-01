@@ -1,6 +1,3 @@
-### [Genomic Epidemiology Educational Materials and Resources](genomic-epi-educational-resources.md)
-
-
 ![PHA4GE logo](https://pha4ge.org/wp-content/uploads/2020/09/phage-logo-thin.png)
 *Training and Workforce Development Working Group Resources*
 
