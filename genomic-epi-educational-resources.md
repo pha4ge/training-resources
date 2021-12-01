@@ -78,4 +78,6 @@ PHA4GE Bioinformatics Pipelines &amp; Training and Workshop Development Working 
 - **[Micro Binfie podcast](https://soundcloud.com/microbinfie/26-sars-cov-2-metadata#t=0:00)**: Features discussion with PHA4GE members about specification package
 - **[PHA4GE Preprint](https://www.preprints.org/manuscript/202008.0220/v1)**: Overview of specification package
 - **[PHA4GE template in the DataHarmonizer](https://github.com/Public-Health-Bioinformatics/DataHarmonizer/releases)**: Javascript application enabling standardized data entry, validation and export of contextual data as submission-ready forms for GISAID and NCBI.
+- **[GISAID to ENA submission conversion tool](https://github.com/enasequence/ena-content-dataflow/tree/master/scripts/gisaid_to_ena)**:Script to convert GISAID metadata spreadsheets into ENA formatted ones using a mapping of equivalent metadata fields (the GISAID headers in this mapping must be unique)
+- **[Metagenote (NIH) Contextual data standardization and annotation tool using MIxS and ontologies, NCBI submission wizard](https://metagenote.niaid.nih.gov/)**: Quick and intuitive way to annotate data from genomics studies including microbiome
  </details>
