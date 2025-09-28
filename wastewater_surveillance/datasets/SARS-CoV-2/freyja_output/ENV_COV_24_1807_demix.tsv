@@ -1,0 +1,6 @@
+	variants/ENV_COV_24_1807_variants.tsv
+summarized	[('BA.2.86* (BA.2.86.X)', 0.7333329998287996), ('KP.3* (KP.3.X)', 0.2666670000027926)]
+lineages	LB.1.1 KP.3.4 LB.1.3.4
+abundances	0.55686200 0.26666700 0.17647100
+resid	3.7730916743285734
+coverage	27.33170584891148
