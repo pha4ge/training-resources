@@ -1,0 +1,11 @@
+name: freyja-env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - freyja==2.0.1
+  - ivar==1.4.3
+  - minimap2==2.28
+  - nextflow==24.10.5
+  - samtools==1.21
