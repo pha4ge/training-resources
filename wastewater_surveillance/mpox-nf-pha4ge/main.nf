@@ -19,7 +19,7 @@ workflow {
     bedFile_ch   = Channel.fromPath(params.bed_file)
     pathogen_ch  = Channel.value(params.pathogen)
     sample_metadata_ch = Channel.fromPath("${params.metadata_dir}/*.csv")
-    
+
     // Run the first process (MINIMAP_ALIGN) and pass it the input channels
     MINIMAP_ALIGN ( refSeq_ch, fastqFile_ch )
 
@@ -32,6 +32,11 @@ workflow {
     // Run demix module
     FREYJA_DEMIX( FREYJA_VARIANT.out.tsv,FREYJA_VARIANT.out.depth, pathogen_ch )
 
+    // collect freyja demix output, aggregate and create dashboard
+    freyja_demix_output_ch = FREYJA_DEMIX.out.tsv.collect()
+
+    FREYJA_AGGREGATE( freyja_demix_output_ch )
+    FREYJA_DASHBOARD( FREYJA_AGGREGATE.out.tsv, sample_metadata_ch )
 }
 
 

@@ -9,7 +9,9 @@ process FREYJA_AGGREGATE {
 
     script:
     """
-    freyja aggregate $tsv_files --output bunch_of_files.tsv
+    mkdir -p aggregate
+    cp $tsv_files aggregate/
+    freyja aggregate aggregate/ --output bunch_of_files.tsv
     """
 }
 
