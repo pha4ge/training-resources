@@ -36,6 +36,8 @@ workflow {
     freyja_demix_output_ch = FREYJA_DEMIX.out.tsv.collect()
 
     FREYJA_AGGREGATE( freyja_demix_output_ch )
+
+    // Run dashboard module
     FREYJA_DASHBOARD( FREYJA_AGGREGATE.out.tsv, sample_metadata_ch )
 }
 
