@@ -18,7 +18,7 @@ workflow {
     refSeq_ch    = Channel.fromPath(params.ref_genome)
     bedFile_ch   = Channel.fromPath(params.bed_file)
     pathogen_ch  = Channel.value(params.pathogen)
-    sample_metadata_ch = Channel.fromPath("${params.metadata_dir}/*.csv")
+    sample_metadata_ch = Channel.fromPath("${params.metadata_file}")
 
     // Run the first process (MINIMAP_ALIGN) and pass it the input channels
     MINIMAP_ALIGN ( refSeq_ch, fastqFile_ch )
