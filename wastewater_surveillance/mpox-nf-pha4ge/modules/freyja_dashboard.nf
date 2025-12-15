@@ -11,7 +11,7 @@ process FREYJA_DASHBOARD {
     script:
     """
     echo ${params.dashboard_title} > title.txt
-    echo ${params.dasboard_desc} > description.txt
+    echo ${params.dashboard_desc} > description.txt
     freyja dash $tsv_file $sample_metadata title.txt description.txt --output dashboard.html --mincov 4
     """
 }
