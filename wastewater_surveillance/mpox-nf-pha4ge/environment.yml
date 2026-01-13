@@ -1,11 +1,10 @@
 name: mpxv-pipeline
 channels:
-  - conda-forge
   - bioconda
-  - defaults
+  - conda-forge
 dependencies:
-  - freyja==1.5.3
-  - ivar==1.4.3
+  - freyja==2.0.2
+  - ivar==1.4.4
   - minimap2==2.28
   - nextflow==24.10.5
   - samtools==1.21
